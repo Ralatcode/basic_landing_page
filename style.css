@@ -50,3 +50,27 @@
     color: var(--secondary-text);
     text-decoration: none;
 }
+
+.hero {
+    width: 100vw;
+    height: 400px;
+    background: var(--background-color);
+}
+
+.hero-container {
+    max-width: 70vw;
+    margin: 0 auto;
+    height: 95%;
+    display: flex;
+    align-items: center;
+    flex: 1 1 0%;
+}
+
+.hero-text {
+  border: 1px solid blue;
+  /* max-width: 30vw; */
+}
+
+.hero-image {
+    max-width: 50vw;
+}

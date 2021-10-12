@@ -10,3 +10,6 @@ It contains header, footer and 4 other sections.
 
 Credits
 Photo by Teddy Joseph from [Pexels](https://www.pexels.com/photo/man-wearing-black-notched-lapel-blazer-2955375/)
+
+
+https://www.pexels.com/photo/selective-focus-photo-of-man-using-laptop-1438081/
