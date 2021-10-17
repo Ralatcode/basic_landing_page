@@ -7,8 +7,7 @@ It contains header, footer and 4 other sections.
 
 
 
-<br>
-Credits
+<h2>Credits</h2>
 Photo by Buro Millennial from [Pexels](https://www.pexels.com/photo/selective-focus-photo-of-man-using-laptop-1438081/)
 
 
