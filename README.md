@@ -1,13 +1,14 @@
-<h1>TOP Landing Page<h1>
+<h1>TOP Landing Page</h1>
 
-<h2> Description</h2>
+<h2>Description</h2>
 This landing page was built using vanilla CSS and HTML. 
 
 It contains header, footer and 4 other sections. 
 
 
 
-<h2>Credits</h2>
+<h2>Credits
+
 Photo by Buro Millennial from [Pexels](https://www.pexels.com/photo/selective-focus-photo-of-man-using-laptop-1438081/)
 
 
